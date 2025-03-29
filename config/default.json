@@ -1,0 +1,21 @@
+{
+      "dbConfig": {
+        "user" : "root" , 
+        "password" : "manager" ,
+        "host": "localhost",
+        "port": 3306,
+        "database": "exam_wala"
+      } , 
+      "mailConfig" : {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "secure" : false , 
+          "auth": {
+          "user" : "" , 
+          "pass" : ""
+        }
+      },
+      "serverPort" : 5005 , 
+      "secretKey" : "aX$2&zL8@#9pD5sG6!vFqBcT3*%rE7wJ" ,
+      "imgDir" : "/media/grvbng7/MY_DRIVE/Computer_Science/my_projects/exam_wala_secure/QuestionImages/"
+}
